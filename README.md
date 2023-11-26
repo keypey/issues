@@ -43,16 +43,16 @@ TESTDB_HOST: Option('...') | TESTDB_USER: Option('...') | TESTDB_PASSWORD: Optio
 }]
 
 7f499e971640 : at ???: RUNTIME ERROR: invalid memory access
-/tmp/v_1000/../../../../../../home/bruno/bin/v/vlib/builtin/string.v:326: by string_clone
-/tmp/v_1000/../../../../../../home/bruno/bin/v/vlib/builtin/string.v:1747: by string_str
+/tmp/v_1000/../../../../../../home/user/bin/v/vlib/builtin/string.v:326: by string_clone
+/tmp/v_1000/../../../../../../home/user/bin/v/vlib/builtin/string.v:1747: by string_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4502: by indent__option_string_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4498: by _option_string_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4514: by indent_Array__option_string_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4533: by indent_db__pg__Row_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4487: by indent_Array_db__pg__Row_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4481: by Array_db__pg__Row_str
-/tmp/v_1000/../../../../../../home/bruno/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:53: by main__test
-/tmp/v_1000/../../../../../../home/bruno/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:66: by main__main
+/tmp/v_1000/../../../../../../home/user/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:53: by main__test
+/tmp/v_1000/../../../../../../home/user/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:66: by main__main
 /tmp/v_1000/../../../../../../tmp/v_1000/test_pg_exec_issue.tmp.c:17092: by main
 ```
 
