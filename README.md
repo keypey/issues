@@ -51,8 +51,8 @@ TESTDB_HOST: Option('...') | TESTDB_USER: Option('...') | TESTDB_PASSWORD: Optio
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4533: by indent_db__pg__Row_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4487: by indent_Array_db__pg__Row_str
 /tmp/v_1000/test_pg_exec_issue.tmp.c:4481: by Array_db__pg__Row_str
-/tmp/v_1000/../../../../../../home/user/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:53: by main__test
-/tmp/v_1000/../../../../../../home/user/W7/Programowanie/v/postgres/test_lisbs/test_pg_exec_issue.v:66: by main__main
+/tmp/v_1000/../../../../../../home/user/v/postgres/test_lisbs/test_pg_exec_issue.v:53: by main__test
+/tmp/v_1000/../../../../../../home/user/v/postgres/test_lisbs/test_pg_exec_issue.v:66: by main__main
 /tmp/v_1000/../../../../../../tmp/v_1000/test_pg_exec_issue.tmp.c:17092: by main
 ```
 
